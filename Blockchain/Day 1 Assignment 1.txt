@@ -1,0 +1,29 @@
+
+DAY 1-ASSIGNMENT: Blockchain course
+
+1.What is your understanding of Blockchain?
+??Blockchain is nothing but just like a linked list but with a patch of security guidelines where we can store data securely in a decentralised manner,as explained its a constantly growing ledger with permanent record store capability.
+
+
+2.What is the core problem blockchain trying to solve?
+??Blockchain can solve :
+1.Authenticity.
+2.Security.
+3.As it is community based so no need of third party trust.
+
+3.What are the features that the blockchain will gives you?
+??1.Verifiable
+2.Unchangable
+3.Tamper-proof
+4.Immutable
+
+4.What all the things the block contains?
+??1.Block number
+2.Data of that block
+3.Previous block Finger Print
+4.Mining Key
+
+5.How is the verifiability of blockchain can be achieved?
+??In the blockchain everything is interconnected in a group of community.
+If any finger print goes wrong in one computer he can verify it with another nearby connected people so that he can collect the entire data or else from where he did mistake from there he can restore it in this way verifiability of a blockchain can be achieved.
+
